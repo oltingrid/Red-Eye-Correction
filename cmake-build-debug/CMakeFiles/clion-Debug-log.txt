@@ -1,0 +1,17 @@
+"D:\CLion\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" -DOpenCV_DIR:PATH=D:/OpenCV/opencv/build/x64/vc16/lib -G Ninja -S D:\Ingrid\AA_AN_3\PI\Proiect -B D:\Ingrid\AA_AN_3\PI\Proiect\cmake-build-debug
+-- The C compiler identification is MSVC 19.29.30148.0
+-- The CXX compiler identification is MSVC 19.29.30148.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/BuildTools/VC/Tools/MSVC/14.29.30133/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenCV: D:/OpenCV/opencv/build (found version "4.11.0") 
+-- Configuring done (3.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/Ingrid/AA_AN_3/PI/Proiect/cmake-build-debug

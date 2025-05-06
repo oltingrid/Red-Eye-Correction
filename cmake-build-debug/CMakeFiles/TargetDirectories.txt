@@ -1,0 +1,3 @@
+D:/Ingrid/AA_AN_3/PI/Proiect/cmake-build-debug/CMakeFiles/Proiect.dir
+D:/Ingrid/AA_AN_3/PI/Proiect/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Ingrid/AA_AN_3/PI/Proiect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
